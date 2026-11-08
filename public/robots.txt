@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /login
 Disallow: /api/
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
+Sitemap: https://quoteflowai.sparrownexus.in/sitemap.xml
